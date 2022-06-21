@@ -1,0 +1,92 @@
+@import url("/scripts/colors.css");
+
+:root {
+    font-family: 'Oxanium', cursive;
+}
+
+* {
+    border: none;
+    margin: 0;
+}
+
+table {
+    font-family: 'Oxanium', cursive;
+    padding: 14px 0px;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 830px;
+    text-align: left;
+}
+
+th, td {
+    /*border: 0.1px solid;*/
+    overflow: hidden;
+    font-weight: 500;
+}
+
+.blankspace {
+    padding: 13px 0px;/*25px 0px;*/
+}
+
+.section {
+    padding: 2px 10px;/*14px 10px;*/
+    font-size: 16px;
+}
+.E050x {width: 50px;}
+.E100x {width: 100px;}
+.E125x {width: 125px;}
+.E150x {width: 150px;}
+.E250x {width: 250px;}
+
+.space1a {color: var(--c10);background-color: var(--c01);}
+.space1b {color: var(--c01);}
+
+.space2a {color: var(--c10);background-color: var(--c02);}
+.space2b {color: var(--c02);}
+
+.space3a {color: var(--c10);background-color: var(--c03);}
+.space3b {color: var(--c03);}
+
+.space4a {color: var(--c10);background-color: var(--c04);}
+.space4b {color: var(--c04);}
+
+.space5a {color: var(--c10);background-color: var(--c05);}
+.space5b {color: var(--c05);}
+
+.space6a {color: var(--c10);background-color: var(--c06);}
+.space6b {color: var(--c06);}
+
+.space7a {color: var(--c01);background-color: var(--c07);}
+.space7b {color: var(--c07);}
+
+.space8a {color: var(--c01);background-color: var(--c08);}
+.space8b {color: var(--c08);}
+
+.space9a {color: var(--c01);background-color: var(--c09);}
+.space9b {color: var(--c09);}
+
+.space10a {color: var(--c01);background-color: var(--c10);}
+.space10b {color: var(--c10);}
+
+.space11a {color: var(--c10);background-color: var(--a0);}
+.space11b {color: var(--a0);}
+
+.space12a {color: var(--c10);background-color: var(--a1);}
+.space12b {color: var(--a1);}
+
+.space13a {color: var(--c10);background-color: var(--a2);}
+.space13b {color: var(--a2);}
+
+.space14a {color: var(--c10);background-color: var(--a3);}
+.space14b {color: var(--a3);}
+
+.spaceHMa {color: var(--c10);background-color: var(--c10);}
+
+
+.d6f455 {
+    color: var(--c10);
+}
+
+.d6f455:hover {
+    color: #d6f455
+}
