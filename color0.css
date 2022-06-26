@@ -2,27 +2,85 @@
 
     --just-black:       #000000;
     --almost-black:     #161a1d;  
-    --charcoal:         #212529;
-    --daker-gray:       #343a40;  
-    --gray:             #495057; 
-    --steel-gray:       #6c757d;  
-    --aluminium:        #adb2bd;  
-    --visual-fog:       #ced4da; 
-    --not-quite-white:  #f8f9fa;
-    --pure-white:       #ffffff;
+    --charcoal:             #212529;
+    --darker-gray:          #343a40;  
+    --gray:                 #495057; 
+    --steel-gray:           #6c757d;  
+    --aluminium:            #adb2bd;  
+    --visual-fog:           #ced4da; 
+    --not-quite-white:      #f8f9fa;
+    --pure-white:           #ffffff;
 
-    --default-blue:     #1a237e;
-    --shallow-sea-blue: #004780;
-    --tomato:           #ff3333;
-    --green:            #46a816;
-    --yellowgreen:      #d6f455;
-    --lawngreen:        #48f743;
-    --washed-out-red:   #ff8888;
-    --mediumslateblue:  #2255ff;
+    --default-blue:         #1a237e;
+    --shallow-sea-blue:     #004780;
+    --tomato:               #ff3333;
+    /* --green:            #46a816;  */
+    --yellowgreen:          #d6f455;
+    
+    /* --washed-out-red:   #ff8888; */
+    --mediumslateblue:      #2255ff;
 
-    --darker-blue:      #1a126e;
-    --deeper-sea-blue:  #002560;
-    --solid-red:        #dd1111;
-    --mediumblue:       #0033dd;
+    --darker-blue:          #1a126e;
+    --deeper-sea-blue:      #002560;
+    --mediumblue:           #0033dd;
 
+
+
+    --default-blue-d:       #000051; 
+    --default-blue-n:       #1a237e;
+    --default-blue-l:       #534bae;
+
+    --shallow-sea-blue-d:   #002153;
+    --shallow-sea-blue-n:   #004780;
+    --shallow-sea-blue-l:   #4772b0;
+
+    --deeper-sea-blue-d:    #000036;
+    --deeper-sea-blue-n:    #002560;
+    --deeper-sea-blue-l:    #3d4c8e;
+
+    --plastic-blue-d:       #002dcb;
+    --plastic-blue-n:       #2255ff;
+    --plastic-blue-l:       #7481ff;
+
+    --tomato_red_d:         #c3000c;
+    --tomato_red_n:         #ff3333;
+    --tomato_red_l:         #ff6e5e;
+
+    --neon-yellow-d:        #a2c11a;
+    --neon-yellow-n:        #d6f455;
+    --neon-yellow-l:        #ffff88;
+    
+    --lawngreen-d:          #00c300;
+    --lawngreen-n:          #48f743;
+    --lawngreen-l:          #89ff77;
 }
+/* 
+Color 1 v1
+
+#1a237e
+#161a1d
+#585b5e
+#a4a7a9
+#f8f9fa
+*/
+
+/*
+Color 1 v2
+
+#1a237e
+#161a1d
+#585b5e
+#a4a7a9
+#f8f9fa
+*/
+
+
+/* 
+Color 2 v1
+
+#004780 
+#ff3333
+#161a1d
+#7d8082
+#f8f9fa
+*/
