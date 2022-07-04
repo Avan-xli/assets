@@ -1,58 +1,47 @@
 :root {
 
-    --just-black:       #000000;
-    --almost-black:     #161a1d;  
-    --charcoal:             #212529;
-    --darker-gray:          #343a40;  
-    --gray:                 #495057; 
-    --steel-gray:           #6c757d;  
-    --aluminium:            #adb2bd;  
-    --visual-fog:           #ced4da; 
-    --not-quite-white:      #f8f9fa;
-    --pure-white:           #ffffff;
+    --colorless: #ffffff00;
 
-    --default-blue:         #1a237e;
-    --shallow-sea-blue:     #004780;
-    --tomato:               #ff3333;
-    /* --green:            #46a816;  */
-    --yellowgreen:          #d6f455;
+    --just-black:           #000000; /*01*/
+    --almost-black:         #161a1d; /*02*/
+    --charcoal:             #212529; /*03*/
+    --darker-gray:          #343a40; /*04*/
+    --gray:                 #495057; /*05*/
+    --steel-gray:           #6c757d; /*06*/
+    --aluminium:            #adb2bd; /*07*/
+    --visual-fog:           #ced4da; /*08*/
+    --idm-gst5:             #dce0e5; /*09*/
+    --plastic-white:        #eaedef; /*10*/
+    --not-quite-white:      #f8f9fa; /*11*/
+    --pure-white:           #ffffff; /*12*/
+
+    --default-blue-d:       #000051; /*13*/
+    --default-blue-n:       #1a237e; /*14*/
+    --default-blue-l:       #534bae; /*15*/
+
+    --shallow-sea-blue-d:   #002153; /*16*/
+    --shallow-sea-blue-n:   #004780; /*17*/
+    --shallow-sea-blue-l:   #4772b0; /*18*/
+
+    --deeper-sea-blue-d:    #000036; /*19*/
+    --deeper-sea-blue-n:    #002560; /*20*/
+    --deeper-sea-blue-l:    #3d4c8e; /*21*/
+
+    --plastic-blue-d:       #002dcb; /*22*/
+    --plastic-blue-n:       #2255ff; /*23*/
+    --plastic-blue-l:       #7481ff; /*24*/
+
+    --tomato-red-d:         #c3000c; /*25*/
+    --tomato-red-n:         #ff3333; /*26*/
+    --tomato-red-l:         #ff6e5e; /*27*/
+
+    --neon-yellow-d:        #a2c11a; /*28*/
+    --neon-yellow-n:        #d6f455; /*29*/
+    --neon-yellow-l:        #ffff88; /*30*/
     
-    /* --washed-out-red:   #ff8888; */
-    --mediumslateblue:      #2255ff;
-
-    --darker-blue:          #1a126e;
-    --deeper-sea-blue:      #002560;
-    --mediumblue:           #0033dd;
-
-
-
-    --default-blue-d:       #000051; 
-    --default-blue-n:       #1a237e;
-    --default-blue-l:       #534bae;
-
-    --shallow-sea-blue-d:   #002153;
-    --shallow-sea-blue-n:   #004780;
-    --shallow-sea-blue-l:   #4772b0;
-
-    --deeper-sea-blue-d:    #000036;
-    --deeper-sea-blue-n:    #002560;
-    --deeper-sea-blue-l:    #3d4c8e;
-
-    --plastic-blue-d:       #002dcb;
-    --plastic-blue-n:       #2255ff;
-    --plastic-blue-l:       #7481ff;
-
-    --tomato_red_d:         #c3000c;
-    --tomato_red_n:         #ff3333;
-    --tomato_red_l:         #ff6e5e;
-
-    --neon-yellow-d:        #a2c11a;
-    --neon-yellow-n:        #d6f455;
-    --neon-yellow-l:        #ffff88;
-    
-    --lawngreen-d:          #00c300;
-    --lawngreen-n:          #48f743;
-    --lawngreen-l:          #89ff77;
+    --grass-green-d:        #00c300; /*31*/
+    --grass-green-n:        #48f743; /*32*/
+    --grass-green-l:        #89ff77; /*33*/
 }
 /* 
 Color 1 v1
@@ -83,4 +72,19 @@ Color 2 v1
 #161a1d
 #7d8082
 #f8f9fa
+*/
+
+
+
+
+
+/* 
+    --default-blue:         #1a237e; /*14*-/
+    --shallow-sea-blue:     #004780; /*17*-/
+    --tomato:               #ff3333; /*26*-/
+    --neon-yellow:          #d6f455; /*29*-/
+    --washed-out-red:       #ff8888;
+    --darker-blue:          #1a126e;
+    --deeper-sea-blue:      #002560;
+    --mediumblue:           #0033dd; 
 */
